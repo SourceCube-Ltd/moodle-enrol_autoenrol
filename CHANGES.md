@@ -130,7 +130,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 - It is now possible to add multiple instances to a single course.
 - An option to give instance a custom label.
-- An option to limit number of enrolments. 
+- An option to limit number of enrolments.
 - A permission for users to unenrol themselves if not enrolling during login.
 
 ### Changed
